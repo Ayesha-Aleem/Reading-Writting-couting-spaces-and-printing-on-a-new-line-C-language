@@ -1,0 +1,5 @@
+this 	is   a  file
+which is created by
+
+
+the c program

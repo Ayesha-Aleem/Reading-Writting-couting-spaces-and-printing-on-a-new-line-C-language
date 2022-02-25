@@ -1,0 +1,3 @@
+D:/C prac/WritingReadingRemovingspaces/cmake-build-debug/CMakeFiles/WritingReadingRemovingspaces.dir
+D:/C prac/WritingReadingRemovingspaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C prac/WritingReadingRemovingspaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
